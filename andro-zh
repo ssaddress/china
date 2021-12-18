@@ -1,2 +1,0 @@
-[{"server":"shanghai-n1.nat.inkisp.com","server_port":14598,"password":"ueFpBVGm9iPf7D","method":"aes-256-gcm","remarks":"上海1","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
-{"server":"shanghai-n2.nat.inkisp.com","server_port":14598,"password":"m5VGHQLVm3qH0r","method":"aes-256-gcm","remarks":"上海2","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false}]
