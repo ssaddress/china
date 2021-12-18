@@ -1,0 +1,12 @@
+[{"server":"103.45.100.143","server_port":39576,"password":"7eb9amPvvm5XFB","method":"aes-256-gcm","remarks":"北京51","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"103.45.105.23","server_port":39480,"password":"kd6j9foQBnQ2rE","method":"aes-256-gcm","remarks":"北京52","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"103.45.102.3","server_port":48597,"password":"hCdZhdnx5X9csp","method":"aes-256-gcm","remarks":"北京53","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"103.45.99.88","server_port":28495,"password":"cPUyx8UY4Y1H8h","method":"aes-256-gcm","remarks":"北京54","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"103.45.105.223","server_port":40857,"password":"6fNmtn0e94wVTD","method":"aes-256-gcm","remarks":"北京55","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"103.45.100.221","server_port":29478,"password":"nwHBXE8Njijbt5","method":"aes-256-gcm","remarks":"北京56","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"103.45.100.222","server_port":38476,"password":"D9dfRkEZ0mEv0N","method":"aes-256-gcm","remarks":"北京57","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+
+{"server":"103.45.102.165","server_port":59986,"password":"a6WW93TmR1YVL6","method":"aes-256-gcm","remarks":"北京58","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"103.45.102.169","server_port":39572,"password":"uAC1imnJY05x3R","method":"aes-256-gcm","remarks":"北京59","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+
+{"server":"103.45.99.4","server_port":38450,"password":"p3qHvhPF99Q9co","method":"aes-256-gcm","remarks":"北京60","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false}]
