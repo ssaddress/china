@@ -7,4 +7,16 @@
 {"server":"103.45.131.162","server_port":30049,"password":"oMyK3njHXmjNJ0","method":"aes-256-gcm","remarks":"北京7","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
 {"server":"103.45.131.165","server_port":43098,"password":"Eh5Huv6iPKZw5A","method":"aes-256-gcm","remarks":"北京8","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
 {"server":"103.45.128.68","server_port":20947,"password":"gkjQdUiW2VAX2j","method":"aes-256-gcm","remarks":"北京9","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
-{"server":"103.45.128.74","server_port":39547,"password":"jzEQ3PRuHRmvaC","method":"aes-256-gcm","remarks":"北京10","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false}]
+{"server":"103.45.128.74","server_port":39547,"password":"jzEQ3PRuHRmvaC","method":"aes-256-gcm","remarks":"北京10","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"216.224.122.23","server_port":1235,"password":"pmanJmik9vcXfPp","method":"aes-256-gcm","remarks":"香港中转北京1","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"216.224.122.23","server_port":1236,"password":"v69dUa4vxh1qFH","method":"aes-256-gcm","remarks":"香港中转北京2","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"216.224.122.23","server_port":1237,"password":"Tz5han15Xi6HA4","method":"aes-256-gcm","remarks":"香港中转北京3","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"216.224.122.23","server_port":1238,"password":"DxjZG2Y7noLZHj","method":"aes-256-gcm","remarks":"香港中转北京4","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"216.224.122.23","server_port":1239,"password":"74AoULaTYH88ee","method":"aes-256-gcm","remarks":"香港中转北京5","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"216.224.122.23","server_port":1240,"password":"Z5Nsj32wBwhhpT","method":"aes-256-gcm","remarks":"香港中转北京6","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"216.224.122.23","server_port":1241,"password":"oMyK3njHXmjNJ0","method":"aes-256-gcm","remarks":"香港中转北京7","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"216.224.122.23","server_port":1242,"password":"Eh5Huv6iPKZw5A","method":"aes-256-gcm","remarks":"香港中转北京8","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"216.224.122.23","server_port":1243,"password":"gkjQdUiW2VAX2j","method":"aes-256-gcm","remarks":"香港中转北京9","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"216.224.122.23","server_port":1244,"password":"jzEQ3PRuHRmvaC","method":"aes-256-gcm","remarks":"香港中转北京10","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false}]
+
+
