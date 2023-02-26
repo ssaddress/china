@@ -1,4 +1,4 @@
-{"server":"pyhz1.ss1011.top","server_port":11023,"password":"ll668668@","method":"aes-256-gcm","remarks":"直连杭州91","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+[{"server":"pyhz1.ss1011.top","server_port":11023,"password":"ll668668@","method":"aes-256-gcm","remarks":"直连杭州91","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
 {"server":"pyhz2.ss1011.top","server_port":11023,"password":"ll668668@","method":"aes-256-gcm","remarks":"直连杭州92","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
 {"server":"pyhz3.ss1011.top","server_port":11023,"password":"ll668668@","method":"aes-256-gcm","remarks":"直连杭州93","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
 {"server":"pyhz4.ss1011.top","server_port":11023,"password":"ll668668@","method":"aes-256-gcm","remarks":"直连杭州94","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
