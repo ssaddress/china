@@ -17,5 +17,5 @@
 {"server":"111.173.115.142","server_port":11023,"password":"ll668668@","method":"aes-256-gcm","remarks":"直连湖北157","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
 {"server":"111.173.115.155","server_port":11023,"password":"ll668668@","method":"aes-256-gcm","remarks":"直连湖北158","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
 {"server":"111.173.116.180","server_port":11023,"password":"ll668668@","method":"aes-256-gcm","remarks":"直连湖北159","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
-{"server":"111.173.116.174","server_port":11023,"password":"ll668668@","method":"aes-256-gcm","remarks":"直连湖北160","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false}]
+{"server":"122.152.227.141","server_port":11023,"password":"ll668668@","method":"aes-256-gcm","remarks":"直连湖北160","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false}]
 
